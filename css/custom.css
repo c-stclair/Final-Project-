@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+/* KEEP THESE STYLES */
+header {
+    padding: 154px 0 100px;
+  }
+  
+  @media (min-width: 992px) {
+    header {
+      padding: 156px 0 100px;
+    }
+  } 
+  section {
+    font-size: 20px;
+  }
+  body {
+      background-color: #d3d3d3;
+      color: black;
+      font-family: 'Poppins', sans-serif;
+  }
+  .card-text {
+    font-size: 12px;
+  }
+
+
+  
+  /* END OF KEEP THESE STYLES */
